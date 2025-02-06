@@ -1,2 +1,6 @@
 # SmartBridge-Fullstack-
-This is an assignment.
+This is my assignment.
+<br>
+Name - Aniruddha Shil
+<br>
+Reg. No. - 22BAI10227
